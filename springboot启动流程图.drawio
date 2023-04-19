@@ -1,49 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T01:19:03.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2ahrOxHxYEhuwcfhxFYA" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T01:44:01.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sBa9KhbUHqWtI_RFUhqF" version="21.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="gEk5ZZJz6RgTBdzEykjf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="-220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gEk5ZZJz6RgTBdzEykjf-2" target="gEk5ZZJz6RgTBdzEykjf-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-2" value="&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;SpringApplication.run(XxxApplication.&lt;span style=&quot;color:#cc7832;&quot;&gt;class, &lt;/span&gt;args)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="-110" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gEk5ZZJz6RgTBdzEykjf-5" target="gEk5ZZJz6RgTBdzEykjf-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-5" value="&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;准备SpringApplication &lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;new SpringApplication(primarySources)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-155" y="-10" width="550" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gEk5ZZJz6RgTBdzEykjf-7" target="gEk5ZZJz6RgTBdzEykjf-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-7" value="&lt;br&gt;&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;thisSpringApplication 构造方法初始化数据&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;this.&lt;span style=&quot;color:#9876aa;&quot;&gt;resourceLoader &lt;/span&gt;= resourceLoader&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;this.&lt;span style=&quot;color:#9876aa;&quot;&gt;primarySources &lt;/span&gt;= &lt;span style=&quot;color:#cc7832;&quot;&gt;new &lt;/span&gt;LinkedHashSet&amp;lt;&amp;gt;(Arrays.&lt;span style=&quot;font-style:italic;&quot;&gt;asList&lt;/span&gt;(primarySources))&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;this.&lt;span style=&quot;font-size: 13.5pt; color: rgb(152, 118, 170);&quot;&gt;webApplicationType &lt;/span&gt;&lt;span style=&quot;font-size: 13.5pt;&quot;&gt;= WebApplicationType.&lt;/span&gt;&lt;span style=&quot;font-size: 13.5pt; font-style: italic;&quot;&gt;deduceFromClasspath&lt;/span&gt;&lt;span style=&quot;font-size: 13.5pt;&quot;&gt;()&lt;/span&gt;&lt;span style=&quot;font-size: 13.5pt; color: rgb(204, 120, 50);&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;setInitializers((Collection) getSpringFactoriesInstances(ApplicationContextInitializer.&lt;span style=&quot;color:#cc7832;&quot;&gt;class&lt;/span&gt;))&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;setListeners((Collection) getSpringFactoriesInstances(ApplicationListener.&lt;span style=&quot;color:#cc7832;&quot;&gt;class&lt;/span&gt;))&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;this.&lt;span style=&quot;color:#9876aa;&quot;&gt;mainApplicationClass &lt;/span&gt;= deduceMainApplicationClass()&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;&lt;span style=&quot;color:#cc7832;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-411.25" y="120" width="1061.25" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gEk5ZZJz6RgTBdzEykjf-9" target="gEk5ZZJz6RgTBdzEykjf-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-9" value=".run(args&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gEk5ZZJz6RgTBdzEykjf-11" target="gEk5ZZJz6RgTBdzEykjf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-11" value="&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;执行 run方法&lt;/pre&gt;&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;SpringApplicationRunListeners listeners = getRunListeners(args); listeners.starting()&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color:#2b2b2b;color:#a9b7c6;font-family:&#39;Consolas&#39;;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;ConfigurableEnvironment environment = prepareEnvironment(listeners,applicationArguments)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;configureIgnoreBeanInfo(environment)&lt;span style=&quot;font-size: 13.5pt;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;Banner printedBanner = printBanner(environment);&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;context = createApplicationContext();&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;exceptionReporters = getSpringFactoriesInstances(SpringBootExceptionReporter.class,&lt;span style=&quot;color:#cc7832;&quot;&gt;new &lt;/span&gt;Class[] { ConfigurableApplicationContext.&lt;span style=&quot;color:#cc7832;&quot;&gt;class &lt;/span&gt;}&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;context)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;prepareContext(context, environment&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;listeners&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;applicationArguments&lt;span style=&quot;color:#cc7832;&quot;&gt;,&lt;/span&gt;printedBanner)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;refreshContext(context);&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;afterRefresh(context, applicationArguments)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;listeners.started(context);&lt;br&gt;callRunners(context&lt;span style=&quot;color:#cc7832;&quot;&gt;, &lt;/span&gt;applicationArguments)&lt;span style=&quot;color:#cc7832;&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Consolas; font-size: 13.5pt;&quot;&gt;listeners.running(context);&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-617.19" y="650" width="1473.12" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="gEk5ZZJz6RgTBdzEykjf-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="59.370000000000005" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
